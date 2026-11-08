@@ -1,4 +1,4 @@
-# DesignPilot — 零基础产品设计与开发向导
+# DesignLeader — 零基础产品设计与开发向导
 
 支持网页与微信小程序，从想法到视觉样稿、实现、验收和操作交付。它是指导编程助手工作的方法包，不是独立应用，也不自带生图、浏览器或微信开发者工具。
 
@@ -76,8 +76,5 @@ SKILL.md 为主入口；references/ 包含视觉参考、动效音效、工程�
 
 ## 验证与边界
 
-此包经过结构、相对引用和压缩包完整性检查；没有在 Kimi Code 与 Codex 各跑完整产品开发，不能声称双端行为已验证。tests/scenarios.md 提供后续真实会话验证用例。技术方案以任务约束为准，真实支付、平台审核和上线不由 Skill 保证。
+此包经过结构、相对引用和压缩包完整性检查；tests/scenarios.md 提供后续真实会话验证用例。技术方案以任务约束为准，真实支付、平台审核和上线不由 Skill 保证。
 
-安装依据（2026-11-08 查阅）：
-- Codex：https://learn.chatgpt.com/docs/build-skills
-- Kimi Code：https://www.kimi.com/code/docs/en/kimi-code-cli/customization/skills.html
